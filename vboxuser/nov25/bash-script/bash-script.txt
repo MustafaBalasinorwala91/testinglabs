@@ -1,0 +1,8 @@
+#!/bin/bash
+#Date 23rd Nov 2025
+#Mantainer "Devops Team"
+#Creating a new directory and new file in /tmp location
+mkdir -p /tmp/lab1/testing/lab1.txt
+touch /tmp/lab1/testing/lab1.txt
+
+echo "The Script Executed and you can check the path"

@@ -1,0 +1,5 @@
+apple 12 red
+ball 5 blue
+cat 20 green
+dog 8 yellow
+mango 15 orange

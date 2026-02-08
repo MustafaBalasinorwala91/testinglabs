@@ -1,0 +1,16 @@
+{
+  "name": "docker-multi-stage-app",
+  "version": "1.0.0",
+  "description": "A simple Node.js app for Docker multi-stage build demo",
+  "main": "node.js",
+  "scripts": {
+    "start": "node node.js",
+    "dev": "node node.js"
+  },
+  "keywords": ["nodejs", "docker", "multi-stage"],
+  "author": "DevOps Engineer",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
